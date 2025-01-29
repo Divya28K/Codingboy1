@@ -1,2 +1,2 @@
-# Codingboy1
+# CodeAlpha
 New repo
